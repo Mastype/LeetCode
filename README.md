@@ -8,4 +8,4 @@ LeetCode 记录编码历程
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | 1   | 寻找数组中的特定两个数   || -   | 哈希   | 简单   |
 | 4   |  -  || -   | -   | 难   |
-| 5   | 寻找最长回文子串        ||[Longest Palindromic Substring](/5/)| DP、Manacher| 中等|
+| 5   | 寻找最长回文子串        | DP、Manacher|[Longest Palindromic Substring](/5/)| 中等|
