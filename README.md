@@ -9,4 +9,4 @@ LeetCode 记录编码历程
 | 1   | 寻找数组中的特定两个数   | -   | 哈希   | 简单   |
 | 4   |  在O(log(n+m))的时间复杂的下求解两个数组的中位数  | -   | 二分查找  | 难   |
 | 5   | 寻找最长回文子串 |[Longest Palindromic Substring](/5/)| DP、Manacher|中等|
-| 6   | Z字型变换字符串   | -   | 字符串模拟   | 中等   |
+| 6   | Z字型变换字符串   | [ZigZag Conversion](/6.ZigZag变换/)   | 字符串模拟   | 中等   |
