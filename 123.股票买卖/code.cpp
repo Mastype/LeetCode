@@ -33,6 +33,7 @@ public:
 };
 int main()
 {
-	vector<int> arr({ 5,4,3,2,1 });
+    int a[] = { 1,2,3,4,5 };
+	vector<int> arr(a, a+5);
 	cout << Solution().maxProfit(arr) << endl;
 }

@@ -23,6 +23,7 @@ public:
 };
 int main()
 {
-	vector<int> v({ 1,2,4,3 });
+    int a[] = { 1,2,4,3 };
+	vector<int> v(a, a+4);
 	cout << Solution().maxArea(v);
 }
